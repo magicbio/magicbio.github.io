@@ -2,7 +2,7 @@
 redirect_from: "/"
 ---
 
-## Purpose
+# Main page
 - **I will study semiconductors for the rest of my life,**  
   **and I will share the knowledge I gain.**  
 
