@@ -14,11 +14,13 @@
     {% include {{ site.inc_before_header }} %}
     {% endif %}
 
-
     <div class="w3-hide-medium w3-hide-small">
       <h1><a href="/">VLSI Wiki</a></h1>
     </div>
 
+    {% if site.show_downloads %}
+    {% include git-wiki/components/action_btn/downloads.html %}
+    {% endif %}
 
     {% if site.show_wiki_pages %}
     {% include git-wiki/components/lists/page-list.html %}
