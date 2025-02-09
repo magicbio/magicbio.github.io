@@ -1,50 +1,80 @@
-# Hi! This is Chase
+<!-- Header -->
+# VLSI Wiki  
+*죽을때까지 반도체를 연구합니다. 그리고 배운 지식을 공유합니다. - [Chase Na | 나경채]*
 
-Git-wiki is a **modular and full featured wiki** powered by Git, [GitHub](https://pages.github.com/)/[Gitlab](https://about.gitlab.com/product/pages/) Pages and pull requests!
+**Connect:** [LinkedIn](https://www.linkedin.com/in/vlsikr/) • [YouTube](https://www.youtube.com/@vlsikr) • [Instagram](https://www.instagram.com/vlsiwiki) • [STEM Community](https://cafe.naver.com/damnang2)
 
-The git-wiki project is composed by 3 different repository:
+---
 
-- [git-wiki-theme](https://github.com/Drassil/git-wiki-theme): This is the repository of the theme that implements the wiki functionalities. You would have not fork it unless you need to send a Pull Request or create your wiki project from scratch.
+# Abstract
 
-- [git-wiki-skeleton](https://github.com/Drassil/git-wiki-skeleton): This is the repo that you should fork or use as a template. It uses the [jekyll remote theme](https://github.com/benbalter/jekyll-remote-theme) functionality that allows you to create your own wiki based on git-wiki-theme. By using the remote functionality you can automatically keep your wiki always updated with latest features from the **git-wiki-theme**, but you can also fully customize it. 
+**VLSI Wiki** is an open community that encompasses all knowledge related to semiconductors and VLSI—from fundamental theories to the latest technology trends.  
+To bring future technologies such as **AI, autonomous driving, Mars exploration, and the Metaverse** to life, **semiconductors** are the essential hardware.
 
-- [git-wiki](https://github.com/Drassil/git-wiki): This is the documentation repository and website of the **git-wiki-theme** project. You would have not fork it unless you want to contribute to the git-wiki project documentation.
+I've always had many questions:
+> “What does this term mean?”  
+> “How should I choose my career path?”  
+> “What if I make a mistake?”  
+> “Who can I ask when I don’t understand something?”  
+> “And what about investing, debugging, or research papers...?”
 
-## Getting started
+With a variety of concerns on my mind, I decided to create this website to share my journey and address your questions—ultimately contributing to the semiconductor industry.  
+My ultimate goal is to serve as a beacon of progress for the global semiconductor industry, sparking positive change for both my company and society at large.
 
-The easier and faster way to use git-wiki is the "skeleton" method.
+# Author
 
-**You don't need to install anything locally!**
+Hi again, this is **Chase**.  
 
-1. Simply fork/clone [skeleton repo](https://github.com/Drassil/git-wiki-skeleton) or click on the "Use this template" button to create your copy of the skeleton project.
+MBTI: ESTJ, Nationality: South Korea. And I like movies and traveling.  
+Do you have any more questions? If not, I'll go back to **VLSI Wiki** story.
 
-2. Edit _config.yml and other pages as you need and then deploy it on GitHub/Gitlab Pages.
+To be honest, every time I sit down to write, a wave of apprehension hits me:
+> “What if my writing isn’t good enough?”  
+> “Is it really okay for me to share these thoughts?”
 
-**Done**! Now wait that your page will be published and you're ready **_to wiki_**!
+But no one starts off perfect, and once something is finished, it can help others—that in itself is a success.
 
-## Features 
+I am constantly learning and striving for continuous improvement.  
+If you notice any shortcomings or areas for enhancement, please feel free to guide me with your warm feedback. 🙏
 
-* Improvements in the **cooperative** aspect: forks, pull requests and roles.
-* You can **customize your wiki** as you want with stylesheets and even changing the layout (see customization section below).
-* **No databases!** Only static files that can be downloaded in a few seconds.
-* **Blazing fast** and free thankfully to GitHub/Gitlab Pages and Jekyll Server Side Generation process!
-* **Markdown and HTML** mixed together!
-* **Multiple free search engines!** on a static site!
-* **History, revision comparison** and everything you need from a wiki platform.
-* You can **edit your pages** with the standard git editor, prose.io (integrated) or any kind of editor you prefer.
-* Non-existent wiki page links are "[red](red.md)", you can **click on them to automatically create a new page**!
-* [External links](http://example.com) get the right icon automatically.
-* **Component system with hooks** that allows you to completely customize your wiki UI (see customization section below).
-* Some **nice internal themes** to change your entire wiki UI with 1 simple configuration (see customization section below).
-* Integrated **Blogging** feature thanks to Jekyll!
-* Automatically generated **TOC**!
-* You can download the entire wiki for **offline** usage and even navigate directly using a Markdown reader!
+# Conclusion
 
-
-You can use it with the Jekyll ["remote_theme"](https://github.com/benbalter/jekyll-remote-theme) feature or fork/copy the master branch and start your wiki in just 1 minute.
-
+This blog is just a side project; my primary focus is on advancing the best interests of the company I work for.  
+I share this valuable knowledge at no cost, but I hope that the benefits you receive from it are infinitely more valuable.
 
 
-Instructions and full documentation: [http://drassil.github.io/git-wiki](http://drassil.github.io/git-wiki)
+---
 
+## What Chase will cover:
 
+- **Semiconductor Fundamentals:**  
+  Dive into the principles and processes that power chip design and fabrication.
+- **EDA & Innovation:**  
+  Explore the latest tools, techniques, and breakthroughs in electronic design automation.
+- **Tech Trends & Policy:**  
+  Get informed on AI, autonomous systems, semiconductor markets, and science & tech policy.
+- **VLSI Engineer Life:**  
+  Experience a behind-the-scenes look at the dynamic world of Korean VLSI engineering.
+- **STEM Careers:**  
+  Find guidance, inspiration, and real-world insights for your journey in science, technology, engineering, and mathematics.
+- **Korean Lifestyle**
+
+---
+
+## Books
+
+- **[Chase TCL](https://vlsi-korea.gitbook.io/chase-tcl)**  
+  Your hands-on guide to mastering TCL in semiconductor design.
+- **Coming Soon in 2025: [?]**  
+  
+
+---
+
+## Let’s Connect
+
+Got ideas, questions, Coffee chat, or collaboration opportunities?  
+Drop me a line at: [gc@vlsi.kr](mailto:gc@vlsi.kr)
+
+---
+
+© 2025 VLSI Wiki – Empowering innovation and shaping the future of semiconductors.
