@@ -1,4 +1,4 @@
-# git-wiki
+# Hi! This is Chase
 
 Git-wiki is a **modular and full featured wiki** powered by Git, [GitHub](https://pages.github.com/)/[Gitlab](https://about.gitlab.com/product/pages/) Pages and pull requests!
 
